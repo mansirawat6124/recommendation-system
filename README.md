@@ -16,3 +16,4 @@ This code implements a simple recommendation system using matrix factorization i
 
 # output
 
+![Image](https://github.com/user-attachments/assets/424b9ec8-f6db-45e9-babb-497f01776095)
